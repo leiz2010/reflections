@@ -1,0 +1,5 @@
+Commit when there is a logical change in the file.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Multipe files in one commit is better for software project where code is split into different file. Google Docs files are not depended on each other to work like a software project would. 
