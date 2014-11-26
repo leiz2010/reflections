@@ -11,3 +11,6 @@ check the new commit against what is on staging.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 It adds all the changed code together. It shows all the changed on different branchs are merged. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merging does not resolved conflicts in the code. Merging manually will require the programmer to resolve conflicts before merging. 
