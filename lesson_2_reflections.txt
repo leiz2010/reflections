@@ -3,3 +3,11 @@ It turns the folder into a git repository. Needs to initialize for git to see th
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It is a place between working directory and repository. It allows the user to put on file at time on it before doing the commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+check the new commit against what is on staging. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It adds all the changed code together. It shows all the changed on different branchs are merged. 
